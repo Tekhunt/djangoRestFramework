@@ -174,3 +174,8 @@ To start the server and run the app, run the command:
    python manage.py runserver
    
 ```
+
+### Below is a sample API of countries and their respective currencies
+
+![countryAPI](https://user-images.githubusercontent.com/65784601/131267942-67801f47-5ddc-49c4-8f85-913857f7df2f.png)
+
